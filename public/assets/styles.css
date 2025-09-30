@@ -1,0 +1,5 @@
+/* assets/styles.css - simple professional styling */
+body{font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;}
+.navbar-brand{font-weight:700;}
+.card{border-radius:10px;}
+.btn-primary{background:linear-gradient(90deg,#0069ff,#0060e0);border:none;}
