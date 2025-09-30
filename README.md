@@ -1,4 +1,4 @@
-# Inventory POS - NO DESIGN AND WALA PA NA TAPOS
+# Inventory POS - NO DESIGN AND WALA PA NA TAPOS KAY GI KAPUY KO 
 
 ## Setup
 1. Import `sql/schema.sql` into MySQL (creates tables). 
